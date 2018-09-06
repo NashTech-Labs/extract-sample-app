@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <person name="Raaj Kapoor" dob="14 December 1924" gender="male">
+        <address street="Mumbai" city="Mumbai" state="Maharashtra" pin="36770047" country="India"/>
+        <wife name="Krishna Malhotra" dob="30 December 1930" gender="female"/>
+        <kids name="Randheer Kapoor" dob="15 February 1947" gender="male">
+            <address street="Mumbai" city="Mumbai" state="Maharashtra" pin="36770047" country="India"/>
+            <wife name="Babita" dob="NA" gender="female"/>
+            <kids name="Karishma Kapoor" dob="25 June 1974" gender="female">
+                <address street="Mumbai" city="Mumbai" state="Maharashtra" pin="36770047" country="India"/>
+                <husband name="Sanjay Kapoor" dob="NA" gender="male"/>
+                <kids name="Samaira Kapoor" dob="NA" gender="female"/>
+            </kids>
+            <kids name="Kareena Kapoor" dob="21 September 1980" gender="female">
+                <address street="Mumbai" city="Mumbai" state="Maharashtra" pin="36770047" country="India"/>
+                <husband name="Saif Ali Khan" dob="16 August 1970" gender="male"/>
+                <kids name="Taimoor Ali Khan" dob="NA" gender="male"/>
+            </kids>
+        </kids>
+        <kids name="Ritu Nanda" dob="30 October 1948" gender="female">
+            <address street="Mumbai46" city="Mumbai" state="Maharashtra" pin="36770047" country="India"/>
+            <husband name="Ranjan Nanda" dob="NA" gender="male"/>
+            <kids name="Nitasha Nanda" dob="NA" gender="female"/>
+            <kids name="Nikhil Nanda" dob="NA" gender="male">
+                <address street="Mumbai46" city="Mumbai" state="Maharashtra" pin="36770047" country="India"/>
+                <wife name="Shweta Bachchan Nanda" dob="80" gender="female"/>
+                <kids name="Navya Naveli Nanda" dob="NA" gender="male"/>
+                <kids name="Agastyle Nanda" dob="NA" gender="male"/>
+            </kids>
+        </kids>
+        <kids name="Rishi Kappor" dob="4 September 1952" gender="male">
+            <address street="Mumbai46" city="Mumbai" state="Maharashtra" pin="36770047" country="India"/>
+            <wife name="Neetu Singh Kapoor" dob="NA" gender="female"/>
+            <kids name="Rishima Sahni" dob="NA" gender="female"/>
+            <kids name="Ranveer Kapoor" dob="28 September 1982" gender="male"/>
+        </kids>
+        <kids name="Reema Jain" dob="NA" gender="male">
+            <address street="Mumbai46" city="Mumbai" state="Maharashtra" pin="36770047" country="India"/>
+            <husband name="NA" dob="NA" gender="male"/>
+            <kids name="Adar Jain" dob="NA" gender="male"/>
+            <kids name="Arman Jain" dob="NA" gender="male"/>
+        </kids>
+        <kids name="Rajeev Kapoor" dob="NA" gender="male">
+            <address street="Mumbai46mbai" city="Mumbai" state="Maharashtra" pin="36770047" country="India"/>
+            <wife name="NA" dob="NA" gender="female"/>
+        </kids>
+    </person>
+</Response>
